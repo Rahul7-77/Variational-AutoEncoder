@@ -11,13 +11,13 @@ Variational Autoencoders are powerful generative models that learn a latent repr
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/yourusername/vae-image-generation.git](https://github.com/yourusername/vae-image-generation.git)
+    git clone [https://github.com/Rahul7-77/Variational-AutoEncoder.git](https://github.com/Rahul7-77/Variational-AutoEncoder.git)
     ```
 
 2.  **Navigate to the project directory:**
 
     ```bash
-    cd vae-image-generation
+    cd Variatonal-AutoEncoder
     ```
 
 3.  **Create a virtual environment (recommended):**
@@ -42,4 +42,6 @@ Variational Autoencoders are powerful generative models that learn a latent repr
 To generate images:
 
 ```bash
-python generate.py
+python vae-generate.py --samples=10
+
+We can vary number of samples we want
