@@ -11,7 +11,7 @@ Variational Autoencoders are powerful generative models that learn a latent repr
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/Rahul7-77/Variational-AutoEncoder.git](https://github.com/Rahul7-77/Variational-AutoEncoder.git)
+    git clone https://github.com/Rahul7-77/Variational-AutoEncoder.git
     ```
 
 2.  **Navigate to the project directory:**
