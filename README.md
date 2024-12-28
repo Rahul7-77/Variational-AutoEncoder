@@ -43,5 +43,6 @@ To generate images:
 
 ```bash
 python vae-generate.py --samples=10
+```
 
 We can vary number of samples we want
